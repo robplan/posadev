@@ -1,0 +1,3 @@
+[submodule "services/rails_demo"]
+	path = services/rails_demo
+	url = git@github.com:robertoplancarte/posadev_rails.git
